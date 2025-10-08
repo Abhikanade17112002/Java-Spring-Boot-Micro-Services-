@@ -1,4 +1,4 @@
-# Java Spring Boot Microservices Series ![Project Banner](./assets/banner.svg)
+# Java Spring Boot Microservices Series ![Project Banner](https://github.com/Abhikanade17112002/Java-Spring-Boot-Micro-Services-/blob/main/Resources/project_banner.png)
 
 ---
 
