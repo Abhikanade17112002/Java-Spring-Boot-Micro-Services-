@@ -87,24 +87,6 @@ Implemented using **Resilience4J Modules**:
 ---
 
 
-## 🕒 Project Timeline
-
-| Timestamp | Topic                          |
-| --------- | ------------------------------ |
-| 00:00:00  | Prerequisites of Microservices |
-| 00:08:13  | What is Microservices & Why    |
-| 31:21     | Creating User Service          |
-| 1:19:34   | Full Hotel Microservice        |
-| 1:47:11   | Rating Microservice            |
-| 2:17:32   | Service Registry Server        |
-| 3:43:25   | Feign Client Implementation    |
-| 3:57:15   | API Gateway                    |
-| 4:43:03   | Config Server                  |
-| 5:42:33   | Circuit Breaker                |
-| 6:40:18   | Rate Limiter                   |
-
----
-
 ## ⚡ How to Run
 
 1. **Clone the repository:**
