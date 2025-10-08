@@ -86,13 +86,6 @@ Implemented using **Resilience4J Modules**:
 
 ---
 
-## 🖼️ Screenshots
-
-| Discovery Service                | User Service                     | Hotel Service                    | Rating Service                   | API Gateway                      |
-| -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
-| ![1](./assets/screenshots/1.png) | ![2](./assets/screenshots/2.png) | ![3](./assets/screenshots/3.png) | ![4](./assets/screenshots/4.png) | ![5](./assets/screenshots/5.png) |
-
----
 
 ## 🕒 Project Timeline
 
