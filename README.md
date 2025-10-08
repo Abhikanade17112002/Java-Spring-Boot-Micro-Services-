@@ -33,7 +33,7 @@ This repository contains a complete **Microservices Project** built using **Spri
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](./assets/architecture.svg)
+![Architecture Diagram](https://github.com/Abhikanade17112002/Java-Spring-Boot-Micro-Services-/blob/main/Resources/architecture_flow.png)
 
 **Flow Explanation:**
 
@@ -46,7 +46,7 @@ This repository contains a complete **Microservices Project** built using **Spri
 
 ## 🧠 Entity Relationship Diagram
 
-![ER Diagram](./assets/er-diagram.svg)
+![ER Diagram](https://github.com/Abhikanade17112002/Java-Spring-Boot-Micro-Services-/blob/main/Resources/er_diagram.png)
 
 **Entities:**
 
@@ -63,7 +63,7 @@ Relationships:
 
 ## 🛡️ Fault Tolerance
 
-![Fault Tolerance Diagram](./assets/fault-tolerance.svg)
+![Fault Tolerance Diagram](https://github.com/Abhikanade17112002/Java-Spring-Boot-Micro-Services-/blob/main/Resources/circuit_breaker_flow.png)
 
 Implemented using **Resilience4J Modules**:
 
@@ -88,9 +88,7 @@ Implemented using **Resilience4J Modules**:
 
 ## 🖼️ Screenshots
 
-> (Add your screenshots inside `/assets/screenshots/`)
-
-| Home Page                        | User Service                     | Hotel Service                    | Rating Service                   | API Gateway                      |
+| Discovery Service                | User Service                     | Hotel Service                    | Rating Service                   | API Gateway                      |
 | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
 | ![1](./assets/screenshots/1.png) | ![2](./assets/screenshots/2.png) | ![3](./assets/screenshots/3.png) | ![4](./assets/screenshots/4.png) | ![5](./assets/screenshots/5.png) |
 
