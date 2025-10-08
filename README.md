@@ -134,14 +134,3 @@ Implemented using **Resilience4J Modules**:
 Contributions are welcome! Fork the repo and open a PR 🚀
 
 ---
-
-### 🧑‍💻 Author
-
-**Abhishek Rangnath Kanade**
-*MERN & Java Spring Boot Developer*
-📍 Pune, India
-🔗 [LinkedIn](https://www.linkedin.com/in/abhikanade17112002)
-
----
-
-> *This repository showcases a production-grade microservices system covering key enterprise-level concepts like service discovery, centralized configuration, and fault tolerance.*
